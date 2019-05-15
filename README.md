@@ -1,6 +1,6 @@
-#Personal wibsite
+# Personal wibsite
 
-*About me
-*Resume
-*Latest Work
-*Quote
+* About me
+* Resume
+* Latest Work
+* Quote
